@@ -4,7 +4,7 @@ The repo contains the trained model and code for the paper, [A Novel Framework f
 
 Our model was trained to characterize five common categories of Gram-stained WSIs: Gram-positive cocci in clusters, Gram-positive cocci in pairs/chains, Gram-positive rods, Gram-negative rods, and slides with no bacteria. It was trained using a 475-slide dataset of blood culture Gram-stained slides collected at Dartmouth Hitchcock Medical Center (Lebanon, New Hampshire, USA).
 
-![Model figure](GramViT/figures/gramvit.png)
+![Model figure](figures/gramvit.png)
 
 ## Dependencies
 
