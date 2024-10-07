@@ -1,6 +1,19 @@
-# List required python libraries for this repository:
-#   https://pip.pypa.io/en/stable/reference/pip_install/#example-requirements-file
 # Install libraries using this file:
 #   $ pip install -r requirements.txt
 
-
+timm==0.6.13
+Pillow==10.0.0
+blobfile==2.0.2
+mypy==1.4.1
+numpy==1.22.4
+pytest==7.2.2
+requests==2.31.0
+einops==0.6.1
+tensorboardX
+scipy
+ftfy==6.1.1
+opencv-python==4.8.0.74
+pyarrow==9.0.0
+transformers
+deepspeed==0.4.0
+scikit-survival==0.22.1
